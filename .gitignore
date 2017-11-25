@@ -6,3 +6,8 @@ node_modules/
 public/
 .deploy*/
 themes/landscape/
+*.png
+*.jpg
+*.svg
+*.gif
+themes/hiker/languages
