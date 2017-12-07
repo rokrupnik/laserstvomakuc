@@ -21,12 +21,22 @@
       <% } else { %>
         <%- post.content %>
       <% } %>
+      
+      <% if (post.images){ %>
+        <div id="gallery">
+          <% for (var i = 0; i < post.images.length; i++) { %>
+            <a href="<%- post.images[i].src %>" title="" class="fancybox" rel="article0">
+              <img src="<%- post.images[i].thumb %>" alt="<%- post.images[i].alt %>">
+            </a>
+          <% } %>
+        </div>
+      <% } %>
     </div>
     <footer class="article-footer">
       <% if (!index && theme.donate.enable){ %>
         <%- partial('donate') %>
       <% } %>
-      <% if (!index && post.comments && (theme.gentie_productKey || theme.duoshuo_shortname || theme.disqus_shortname || theme.uyan_uid || theme.wumii || theme.livere_shortname)){ %>
+      <% if (!index && theme.post_comments.enable && post.comments && (theme.gentie_productKey || theme.duoshuo_shortname || theme.disqus_shortname || theme.uyan_uid || theme.wumii || theme.livere_shortname)){ %>
         <%- partial('comment') %>
       <% } %>
       <%- partial('post/tag') %>

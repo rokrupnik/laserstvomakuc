@@ -57,7 +57,7 @@ archive_pagination: true
 
 # Post Article's Content
 post_catalog:
-  enable: true
+  enable: false
 
 
 # Content
@@ -169,3 +169,6 @@ donate:
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
     wechatImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/WeChanQR.png
     alipayImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/AliPayQR.jpg
+
+post_comments:
+    enable: false
