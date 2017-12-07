@@ -11,7 +11,7 @@ menu:
   Contact: kontakt
 # rss: /atom.xml
 
-since: 2013
+since: 2017
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
@@ -68,24 +68,24 @@ widgets:
 - social
 - category
 - tag
-- tagcloud
-- archive
-- recent_posts
+# - tagcloud
+# - archive
+# - recent_posts
 
 
 # Social Links
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
+  email: info@laserstvomakuc.si
+  Facebook: https://www.facebook.com/laserstvomakuc
+  Twitter: https://twitter.com/LaserstvoMakuc
+  # Google-plus: 
+  # Instagram: 
+  # Pinterest: 
+  # Flickr: 
   # Github: https://github.com/iTimeTraveler
   # Weibo: http://www.yoursite.com
-  Twitter: 
-  Facebook: 
-  Google-plus: 
-  Instagram: 
-  Pinterest: 
-  Flickr: 
-  email: laser.makuc@gmail.com
 
 
 # Search

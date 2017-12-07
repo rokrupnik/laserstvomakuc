@@ -3,11 +3,11 @@ archives: Arhiv
 about: O nas
 categories: Kategorije
 search: Search
-tags: Tags
+tags: Oznake
 tagcloud: Tag Cloud
 tweets: Tweets
-prev: Prev
-next: Next
+prev: Nazaj
+next: Naprej
 comment: Comments
 archive_a: Archives
 archive_b: "Archives: %s"
@@ -20,8 +20,8 @@ powered_by: Powered by
 rss_feed: RSS Feed
 category: Category
 tag: Tag
-connect: 'Connect'
-post_total_count: There are %d posts in total till now.
+connect: 'Povežite se z nami'
+post_total_count: Dosedaj imamo toliko objav - %d.
 right_reserved: "%s hold copyright"
 site_uv: 'UV'
 site_pv: 'PV'
