@@ -49,7 +49,7 @@
   } 
   %>
 
-  <link rel="icon" href="<%- partial('post/urlconvert', {tempUrl: avatarurl}) %>">
+  <link rel="icon" href="<%- partial('post/urlconvert', {tempUrl: theme.faviconurl}) %>">
   <link rel="apple-touch-icon" href="<%= config.root %><% if (theme.avatar.url){ %><%- theme.avatar.url %><% } else {%>css/images/avatar.jpg<% } %>">
   <% if (config.highlight.enable){ %>
     <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">

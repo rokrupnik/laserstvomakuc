@@ -25,6 +25,8 @@ avatar:
   top: 10
   url: css/images/logo.svg
 
+faviconurl: favicon.ico
+
 
 # Homepage
 # eg. home_background_image: [css/images/home-bg.jpg, http://t.cn/RMbvEza]
