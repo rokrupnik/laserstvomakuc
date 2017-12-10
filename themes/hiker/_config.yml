@@ -172,3 +172,12 @@ donate:
 
 post_comments:
     enable: false
+
+
+cloudinary:
+  base_url: https://res.cloudinary.com/
+  cloud_name: dggyhjmf7
+  version: 20171210
+  thumb:
+    w: 150
+    h: 100

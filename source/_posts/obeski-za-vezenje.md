@@ -10,11 +10,9 @@ categories:
   - Novice
 date: 2013-08-02 17:14:16
 images:
-  - src: https://res.cloudinary.com/dggyhjmf7/image/upload/v1512683732/07_ymdcim.jpg
-    thumb: https://res.cloudinary.com/dggyhjmf7/image/upload/c_limit,h_100,w_150/v1512683732/07_ymdcim.jpg
+  - id: 07_ymdcim.jpg
     alt: Obesek za vezenje
-  - src: https://res.cloudinary.com/dggyhjmf7/image/upload/v1512683732/01_hhomi7.jpg
-    thumb: https://res.cloudinary.com/dggyhjmf7/image/upload/c_limit,h_100,w_150/v1512683732/01_hhomi7.jpg
+  - id: 01_hhomi7.jpg
     alt: Obesek za vezenje
 ---
 

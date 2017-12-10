@@ -10,6 +10,15 @@ comment: false
 categories:
   - Novice
 date: 2013-01-23 09:37:24
+images:
+  - id: sam_1028_zjwdfx.jpg
+    alt: Zasledovalec
+  - id: sam_1030_qtagq6.jpg
+    alt: Zasledovalec
+  - id: sam_1031_vesc7v.jpg
+    alt: Zasledovalec
+  - id: sam_1032_ao6mys.jpg
+    alt: Zasledovalec
 ---
 
 Izdelali smo didaktični pripomoček, ki odlično zaposli otroke in obenem razvija njihove gibalne in mentalne sposobnosti.
@@ -39,5 +48,3 @@ Dimenzije:
 *   Debelina škatle 15 cm, širina podstavkov 34 cm
 
 * * *
-
-![](http://www.laserstvomakuc.si/nextgen-attach_to_post/preview/id--354)
