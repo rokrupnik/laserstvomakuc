@@ -9,5 +9,6 @@ themes/landscape/
 *.png
 *.jpg
 *.svg
+!to_top.svg
 *.gif
 themes/hiker/languages
