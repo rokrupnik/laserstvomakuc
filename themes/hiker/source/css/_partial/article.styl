@@ -159,11 +159,23 @@
   ul, ol, dl
     margin-top: line-height
     margin-bottom: line-height
+  #gallery
+    a
+      img
+        margin-right: 20px
+        margin-bottom: 20px
+        -webkit-box-shadow: 3px 3px 1px #ccc;
+        -moz-box-shadow: 3px 3px 1px #ccc;
+        box-shadow: 3px 3px 1px #ccc;
+        border-radius: 3%;
+        transition: all .3s
+        &:hover
+          -webkit-transform: scale(1.1)
+          -ms-transform: scale(1.1)
+          transform: scale(1.1)
   img, video
     max-width: 100%
     height: auto
-    margin-right: 20px
-    margin-bottom: 20px
   iframe
     border: none
   table

@@ -179,5 +179,5 @@ cloudinary:
   cloud_name: dggyhjmf7
   version: 20171210
   thumb:
-    w: 150
-    h: 100
+    w: 300
+    h: 200
