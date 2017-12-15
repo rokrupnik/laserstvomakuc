@@ -27,20 +27,31 @@
                   <% } else { %>
                     <div class="item">
                   <% } %>
-                    <img id="carousel-img<%= i %>" src="<%- partial('post/urlconvert', {tempUrl: theme.home_background_image.url[i]}) %>">
+                    <img id="carousel-img<%= i %>" src="">
                   </div>
 
                   <!-- 自适应大图 -->
                   <script>
                       var img<%= i %> = new Image();
-                      var imageTag<%= i %> = document.getElementById("carousel-img<%= i %>");
-                      img<%= i %>.src = imageTag<%= i %>.src;
+                      var imgTag<%= i %> = document.getElementById("carousel-img<%= i %>");
+                      var imgSrc = "<%- partial('post/urlconvert', {tempUrl: theme.home_background_image.url[i]}) %>";
+                      var clientW = document.body.clientWidth;
+                      var clientH = document.body.clientHeight;
+                      
+                      if (clientW >= (16 / 9 * clientH)) {
+                        imgSrc = imgSrc.replace('upload/v', 'upload/c_limit,w_' + clientW + '/v');
+                      } else {
+                        imgSrc = imgSrc.replace('upload/v', 'upload/c_limit,h_' + clientH + '/v');
+                      }
+                      imgTag<%= i %>.src = imgSrc;
+                      img<%= i %>.src = imgSrc;
+
                       img<%= i %>.onload=function(){
-                        if (img<%= i %>.width / img<%= i %>.height <= document.body.clientWidth / document.body.clientHeight) {
-                          imageTag<%= i %>.style.width = document.body.clientWidth + "px";
+                        if (img<%= i %>.width / img<%= i %>.height <= clientW / clientH) {
+                          imgTag<%= i %>.style.width = clientW + "px";
                         } else {
-                          imageTag<%= i %>.style.height = document.body.clientHeight + "px";
-                          imageTag<%= i %>.style.marginLeft = -(document.body.clientHeight * img<%= i %>.width / img<%= i %>.height - document.body.clientWidth) / 2 + "px";
+                          imgTag<%= i %>.style.height = clientH + "px";
+                          imgTag<%= i %>.style.marginLeft = -(clientH * img<%= i %>.width / img<%= i %>.height - clientW) / 2 + "px";
                         }
                       };
                   </script>
