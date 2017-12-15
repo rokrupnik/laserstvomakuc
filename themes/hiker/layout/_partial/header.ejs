@@ -41,6 +41,8 @@
                       if (clientW >= (3 / 2 * clientH)) {
                         imgSrc = imgSrc.replace('upload/v', 'upload/w_' + clientW + '/v');
                       } else {
+                        // We crop to client height in both directions because the image has to be
+                        // wide enough for landscape orientation if user rotates the screen
                         imgSrc = imgSrc.replace('upload/v', 'upload/h_' + clientH + '/c_crop,g_center,w_' + clientH + ',h_' + clientH + '/v');
                       }
                       imgTag<%= i %>.src = imgSrc;
