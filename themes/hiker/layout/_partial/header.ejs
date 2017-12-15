@@ -27,7 +27,7 @@
                   <% } else { %>
                     <div class="item">
                   <% } %>
-                    <img id="carousel-img<%= i %>" src="">
+                    <img width="100%" id="carousel-img<%= i %>" src="">
                   </div>
 
                   <!-- 自适应大图 -->
@@ -38,22 +38,13 @@
                       var clientW = document.body.clientWidth;
                       var clientH = document.body.clientHeight;
                       
-                      if (clientW >= (16 / 9 * clientH)) {
-                        imgSrc = imgSrc.replace('upload/v', 'upload/c_limit,w_' + clientW + '/v');
+                      if (clientW >= (3 / 2 * clientH)) {
+                        imgSrc = imgSrc.replace('upload/v', 'upload/w_' + clientW + '/v');
                       } else {
-                        imgSrc = imgSrc.replace('upload/v', 'upload/c_limit,h_' + clientH + '/v');
+                        imgSrc = imgSrc.replace('upload/v', 'upload/h_' + clientH + '/c_crop,g_center,w_' + clientW + ',h_' + clientH + '/v');
                       }
                       imgTag<%= i %>.src = imgSrc;
                       img<%= i %>.src = imgSrc;
-
-                      img<%= i %>.onload=function(){
-                        if (img<%= i %>.width / img<%= i %>.height <= clientW / clientH) {
-                          imgTag<%= i %>.style.width = clientW + "px";
-                        } else {
-                          imgTag<%= i %>.style.height = clientH + "px";
-                          imgTag<%= i %>.style.marginLeft = -(clientH * img<%= i %>.width / img<%= i %>.height - clientW) / 2 + "px";
-                        }
-                      };
                   </script>
                 <% } %>
             </div>
