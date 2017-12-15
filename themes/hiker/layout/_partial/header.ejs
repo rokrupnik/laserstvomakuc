@@ -27,7 +27,7 @@
                   <% } else { %>
                     <div class="item">
                   <% } %>
-                    <img width="100%" id="carousel-img<%= i %>" src="">
+                    <img id="carousel-img<%= i %>" src="">
                   </div>
 
                   <!-- 自适应大图 -->
@@ -41,7 +41,7 @@
                       if (clientW >= (3 / 2 * clientH)) {
                         imgSrc = imgSrc.replace('upload/v', 'upload/w_' + clientW + '/v');
                       } else {
-                        imgSrc = imgSrc.replace('upload/v', 'upload/h_' + clientH + '/c_crop,g_center,w_' + clientW + ',h_' + clientH + '/v');
+                        imgSrc = imgSrc.replace('upload/v', 'upload/h_' + clientH + '/c_crop,g_center,w_' + clientH + ',h_' + clientH + '/v');
                       }
                       imgTag<%= i %>.src = imgSrc;
                       img<%= i %>.src = imgSrc;
