@@ -41,9 +41,10 @@
                       if (clientW >= (3 / 2 * clientH)) {
                         imgSrc = imgSrc.replace('upload/v', 'upload/w_' + clientW + '/v');
                       } else {
-                        // We crop to client height in both directions because the image has to be
-                        // wide enough for landscape orientation if user rotates the screen
-                        imgSrc = imgSrc.replace('upload/v', 'upload/h_' + clientH + '/c_crop,g_center,w_' + clientH + ',h_' + clientH + '/v');
+                        // We resize and crop to the widest client dimension in both directions because the image has to be
+                        // wide and high enough if user rotates the screen
+                        var maxDim = Math.max(clientW, clientH);
+                        imgSrc = imgSrc.replace('upload/v', 'upload/h_' + maxDim + '/c_crop,g_center,w_' + maxDim + ',h_' + maxDim + '/v');
                       }
                       imgTag<%= i %>.src = imgSrc;
                       img<%= i %>.src = imgSrc;
@@ -88,9 +89,8 @@
     <% } else {%>
       <div id="intrologo" class="intro-logo">
     <% } %>
- 
 
-
+    <% if (backgroundTheme == "POLYLINE" || backgroundTheme == "TRIANGLIFY"){ %>
     <canvas width="100%" height="100%"></canvas>
     <script>
       var c = document.getElementsByTagName('canvas')[0],
@@ -110,7 +110,7 @@
       x.scale(pr, pr)
       x.globalAlpha = 0.6
 
-      <!-- 折线Polyline背景 -->
+      // 折线Polyline背景
       <% if (backgroundTheme == "POLYLINE"){ %>
         function i(){
             x.clearRect(0,0,w,h)
@@ -139,7 +139,7 @@
         document.getElementById("intrologo").ontouchstart = i
         i()
 
-      <!-- 多边形trianglify背景 -->
+      // <!-- 多边形trianglify背景 -->
       <% } else if (backgroundTheme == "TRIANGLIFY") { %>
 		 function redraw(){
 		 	var pattern = Trianglify({
@@ -153,6 +153,7 @@
 		redraw()
       <% } %>
     </script>
+    <% } %>
     
 
     <% if (!theme.home_logo_image.enable && backgroundTheme != "POLYLINE"){ %>
