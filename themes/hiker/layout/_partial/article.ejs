@@ -25,8 +25,8 @@
       <% if (post.images){ %>
         <div id="gallery">
           <% for (var i = 0; i < post.images.length; i++) { %>
-            <a href="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/v<%- theme.cloudinary.version %>/<%- post.images[i].id %>" title="" class="fancybox" rel="article0">
-              <img src="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/c_limit,h_<%- theme.cloudinary.thumb.h %>,w_<%- theme.cloudinary.thumb.w %>/v<%- theme.cloudinary.version %>/<%- post.images[i].id %>" alt="<%- post.images[i].alt %>">
+            <a href="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/f_auto/v<%- theme.cloudinary.version %>/<%- post.images[i].id %>" title="" class="fancybox" rel="article0">
+              <img src="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/f_auto,c_limit,h_<%- theme.cloudinary.thumb.h %>,w_<%- theme.cloudinary.thumb.w %>/v<%- theme.cloudinary.version %>/<%- post.images[i].id %>" alt="<%- post.images[i].alt %>">
             </a>
           <% } %>
         </div>
