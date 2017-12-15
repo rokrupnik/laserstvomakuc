@@ -44,7 +44,7 @@
                         // We resize and crop to the widest client dimension in both directions because the image has to be
                         // wide and high enough if user rotates the screen
                         var maxDim = Math.max(clientW, clientH);
-                        imgSrc = imgSrc.replace('upload/v', 'upload/h_' + maxDim + '/c_crop,g_center,w_' + maxDim + ',h_' + maxDim + '/v');
+                        imgSrc = imgSrc.replace('upload/v', 'upload/c_limit,h_' + maxDim + '/c_crop,g_center,w_' + maxDim + ',h_' + maxDim + '/v');
                       }
                       imgTag<%= i %>.src = imgSrc;
                       img<%= i %>.src = imgSrc;
