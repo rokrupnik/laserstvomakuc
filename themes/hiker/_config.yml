@@ -35,6 +35,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
+  interval: 3000
   url: [
     https://res.cloudinary.com/dggyhjmf7/image/upload/v1511805893/skatlica_svincniki_2k_ykmwqg.jpg,
     https://res.cloudinary.com/dggyhjmf7/image/upload/v1511608978/ura_2k_aq5dez.jpg,
