@@ -59,7 +59,6 @@
                 <img id="carousel-img<%= i %>" src="<%- partial('post/urlconvert', {tempUrl: theme.about_big_image[i]}) %>">
               </div>
 
-              <!-- 自适应大图 -->
               <script>
               	  var carouselResize = function() {
               	  	  var h = document.body.clientHeight / 3;
@@ -82,12 +81,8 @@
 
         <!-- Controls -->
         <a class="left carousel-control" href=".carousel" role="button" data-slide="prev">
-          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-          <span class="sr-only">Geri</span>
         </a>
         <a class="right carousel-control" href=".carousel" role="button" data-slide="next">
-          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-          <span class="sr-only">İleri</span>
         </a>
       </div>
     </section>
