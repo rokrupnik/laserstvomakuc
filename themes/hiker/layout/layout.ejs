@@ -1,4 +1,8 @@
-<%- partial('_partial/head') %>
+<% if (is_post()){ %>
+  <%- partial('_partial/head', {post: page}) %>
+<% } else {%>
+  <%- partial('_partial/head') %>
+<% } %>
 
 <% if (is_post()){ %>
   <body data-spy="scroll" data-target="#toc" data-offset="50">

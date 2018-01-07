@@ -29,7 +29,7 @@
     title = __('tag') + ': ' + page.tag;
   }
   %>
-  <title><% if (title){ %><%= __(title.toLowerCase()) %> | <% } %><%= config.title %></title>
+  <title><% if (title){ %><%= __(title) %> | <% } %><%= config.title %></title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <% if (page.keywords){ %>
     <meta name="keywords" content="<%- page.keywords %>" />
@@ -93,6 +93,11 @@
   
   <% if (theme.donate.enable){ %>
     <link rel="stylesheet" href="<%- config.root %>css/vdonate.css" >
+  <% } %>
+
+  <!-- FB SHARING previews -->
+  <% if (is_post()){ %>
+    <link rel="image_src" href="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/f_auto/v<%- theme.cloudinary.version %>/<%- post.images[0].id %>" >
   <% } %>
 
 </head>
