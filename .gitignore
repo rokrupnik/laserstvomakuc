@@ -12,3 +12,4 @@ themes/landscape/
 !to_top.svg
 *.gif
 themes/hiker/languages
+.idea/
