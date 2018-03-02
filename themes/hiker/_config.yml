@@ -17,7 +17,7 @@ since: 2010
 keywords: ""
 
 # Put your favicon.ico or avatar.jpg into `hexo-site/themes/hiker/source/` directory.
-avatar: 
+avatar:
   enable: true
   border: false
   width: 220
@@ -83,10 +83,10 @@ social:
   email: info@laserstvomakuc.si
   Facebook: https://www.facebook.com/laserstvomakuc
   Twitter: https://twitter.com/LaserstvoMakuc
-  # Google-plus: 
-  # Instagram: 
-  # Pinterest: 
-  # Flickr: 
+  # Google-plus:
+  # Instagram:
+  # Pinterest:
+  # Flickr:
   # Github: https://github.com/iTimeTraveler
   # Weibo: http://www.yoursite.com
 
@@ -100,11 +100,11 @@ search:
 
 # comment ShortName, you can choose only ONE to display.
 gentie_productKey: #your-gentie-product-key
-duoshuo_shortname: 
-disqus_shortname: 
+duoshuo_shortname:
+disqus_shortname:
 livere_shortname: MTAyMC8yOTQ4MS82MDQ5
-uyan_uid: 
-wumii: 
+uyan_uid:
+wumii:
 
 
 # Code Highlight theme
@@ -133,7 +133,7 @@ show_count: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification:
+google_site_verification: IKKCgQD61YxJlYSzFg4hWkQLV1MobU2mRc-VVGYYdMg
 baidu_site_verification:
 qihu_site_verification:
 
