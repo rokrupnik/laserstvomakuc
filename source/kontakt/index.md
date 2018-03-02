@@ -14,13 +14,13 @@ Posredujte nam vašo zamisel za nov izdelek in skupaj jo bomo uresničili!</br>L
 <div class="col-md-6">
 <h2>Naši podatki</h2>
 
-Naziv: Laserstvo Makuc, Boštjan Rupnik s.p.
-Naslov: [Stara Oselica 67, 4225 Sovodenj](geo:46.09397430000001,14.05368240000007 "Stara Oselica 67, 4225 Sovodenj")
+Naziv: Programiranje in laserska obdelava lesa in nekovin, Rok Rupnik s.p.
+Naslov: [Stara Oselica 67, 4225 Sovodenj](https://goo.gl/maps/HsfgFoTtD9r "Stara Oselica 67, 4225 Sovodenj")
 E-pošta: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si")
 Telefon: [040-664-639](tel:+38640664639 "040-664-639")
 
-TRR: SI56 3400 0101 5441 178 (Odprt pri Sparkasse d.d.)
-ID za DDV: 61523151 (nismo zavezanci za DDV)
+TRR: SI56 6100 0001 2075 198 (Odprt pri banki Delavska hranilnica d.d.)
+ID za DDV: 72823909 (nismo zavezanci za DDV)
 </div>
 </div>
 
