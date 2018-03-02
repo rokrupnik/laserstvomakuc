@@ -8,14 +8,15 @@ date: 2012-04-18 17:52:33
 <div class="col-md-6">
 <h2>Kontaktirajte nas</h2>
 
-Posredujte nam vašo zamisel za nov izdelek in skupaj jo bomo uresničili!</br>Lahko nam pišete iz vaše priljubljene aplikacije za e-pošto na naslov: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si").</br> Vedno smo dosegljivi tudi na telefonsko številko <nobr>[040-664-639](tel:+38640664639 "040-664-639")</nobr>.</br> Vašemu povpraševanju sledi informativni izračun cene in določitev datuma prevzema.
+Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj ga bomo uresničili!</br>Lahko nam pišete iz vaše priljubljene aplikacije za e-pošto na naslov: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si").</br> Vedno smo dosegljivi tudi na telefonsko številko <nobr>[040-664-639](tel:+38640664639 "040-664-639")</nobr>.</br> Vašemu povpraševanju sledi informativni izračun cene in določitev datuma prevzema.
 </div>
 
 <div class="col-md-6">
 <h2>Naši podatki</h2>
 
-Naziv: Programiranje in laserska obdelava lesa in nekovin, Rok Rupnik s.p.
-Naslov: [Stara Oselica 67, 4225 Sovodenj](https://goo.gl/maps/HsfgFoTtD9r "Stara Oselica 67, 4225 Sovodenj")
+Laserstvo Makuc
+Naziv: Rok Rupnik s.p.
+Naslov: [Stara Oselica 67, 4225 Sovodenj, Poljanska dolina](https://goo.gl/maps/HsfgFoTtD9r "Stara Oselica 67, 4225 Sovodenj")
 E-pošta: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si")
 Telefon: [040-664-639](tel:+38640664639 "040-664-639")
 
