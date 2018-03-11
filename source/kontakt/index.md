@@ -16,7 +16,7 @@ Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj g
 
 Laserstvo Makuc
 Naziv: Rok Rupnik s.p.
-Naslov: [Stara Oselica 67, 4225 Sovodenj, Poljanska dolina](https://goo.gl/maps/HsfgFoTtD9r "Stara Oselica 67, 4225 Sovodenj")
+Naslov: [Stara Oselica 67, 4225 Sovodenj, Poljanska dolina](https://goo.gl/maps/ssiJV4cd5Lr "Stara Oselica 67, 4225 Sovodenj")
 E-pošta: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si")
 Telefon: [040-664-639](tel:+38640664639 "040-664-639")
 
@@ -27,6 +27,5 @@ ID za DDV: 72823909 (nismo zavezanci za DDV)
 
 <div class="contact last">
 <h2>Kje nas najdete</h2>
-
-<iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Stara+Oselica+67&amp;aq=&amp;sll=46.09371,14.053574&amp;sspn=0.204041,0.528374&amp;ie=UTF8&amp;hq=&amp;hnear=Stara+Oselica+67,+4225+Gorenja+vas,+Slovenia&amp;t=m&amp;ll=46.142734,14.05426&amp;spn=0.186495,0.274658&amp;z=11&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="500px"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2766.851670442678!2d14.051971915578637!3d46.093933979113416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477ae7eade87ffab%3A0x47fe15e1a6abcdf9!2sLaserstvo+Makuc!5e0!3m2!1ssl!2ssi!4v1520799677210" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="500px"></iframe>
 </div>
