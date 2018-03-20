@@ -5,10 +5,12 @@ tags:
   - lasersko graviranje
   - les
   - album
+  - poroka
 categories:
   - Novice
   - Izdelki
   - Darila
+  - Poroka
 images:
   - id: DSC_0425_rvexh7.jpg
     alt: Platnice za album
