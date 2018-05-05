@@ -1,0 +1,35 @@
+.main-image-wrapper
+  overflow : hidden
+  img
+    width : 100%
+
+.product-list
+  margin-top : 20px
+  .article-entry #gallery.products a
+    float : left
+    &.float-right
+      float : right
+      img
+        margin-left : 20px
+        margin-right : 0
+        @media mq-mobile
+          margin-left : 0
+    img
+      &:hover
+        transform : scale(1.05)
+  .article-entry h2
+    padding : .5em 0 0
+
+.products
+  a
+
+.product__info
+  @media only screen and (max-width : 720px)
+    margin-bottom : 20px
+    display : block
+    clear : both
+
+.product__notice
+  font-size : 1.5rem
+  margin-top : .5em
+  color : color-sidebar-text

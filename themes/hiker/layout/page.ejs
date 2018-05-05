@@ -1,1 +1,5 @@
-<%- partial('_partial/page', {post: page, index: false}) %>
+<% if (page.type && page.type == 'product-list'){ %>
+  <%- partial('_partial/product-list', { page: page }) %>
+<% } else { %>
+  <%- partial('_partial/page', {post: page, index: false}) %>
+<% } %>

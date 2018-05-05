@@ -5,6 +5,7 @@
 # Header Menu
 menu:
   Home: /
+  Montessori: montessori-igrace-in-materiali
   Archives: archives
   # Categories: categories
   # Tags: tags
@@ -180,5 +181,11 @@ cloudinary:
   cloud_name: dggyhjmf7
   version: 20171210
   thumb:
-    w: 300
+    w: 296
     h: 200
+  main_image:
+    w: 1920
+    h: 400
+  product:
+    w: 400
+    h: 266

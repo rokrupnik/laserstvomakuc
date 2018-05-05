@@ -73,7 +73,7 @@ body
     #rocket.launch i {
       -webkit-transform: scale(1.4, 3.2);
       -moz-transform: scale(1.4, 3.2);
-      transform: scale(1.4, 3.2); } 
+      transform: scale(1.4, 3.2); }
 
 #menu-switch
     display: block;
@@ -152,11 +152,25 @@ if sidebar is left
 @import "_partial/highlight"
 @import "_partial/mobile"
 @import "_partial/insight"
+@import "_partial/product-list"
 
 if sidebar
   @import "_partial/sidebar"
+
+p,
+strong,
+span
+  font-size : 1.8rem
 
 /* ATOMIC CSS */
 .handcursor {
   cursor: pointer;
 }
+.line-separator
+    height:1px
+    background:#717171
+    border-bottom:1px solid #313030
+    margin-bottom: 20px
+
+.clearfix
+    clear: both

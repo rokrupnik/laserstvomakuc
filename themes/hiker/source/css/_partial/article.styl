@@ -74,7 +74,7 @@
 
 .article-category-link:hover
   color: color-theme
-  
+
 .article-views
   @extend $block-caption
   text-align: center
@@ -165,15 +165,13 @@
       img
         margin-right: 20px
         margin-bottom: 20px
-        -webkit-box-shadow: 3px 3px 1px #ccc;
-        -moz-box-shadow: 3px 3px 1px #ccc;
         box-shadow: 3px 3px 1px #ccc;
         border-radius: 3%;
         transition: all .3s
         &:hover
-          -webkit-transform: scale(1.1)
-          -ms-transform: scale(1.1)
           transform: scale(1.1)
+        @media mq-mobile
+          margin-right : 0
   img, video
     max-width: 100%
     height: auto
@@ -563,5 +561,5 @@ $article-gallery-ctrl
   &:hover
     color: color-theme
 
-.nav-child 
+.nav-child
   margin-left 1.0em
