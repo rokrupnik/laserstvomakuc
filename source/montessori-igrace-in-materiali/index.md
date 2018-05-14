@@ -12,21 +12,21 @@ products:
     price: "120 €"
     image: 
       alt: "Zasledovalec"
-      id: crke_1_kdscua.jpg
+      id: zasledovalec_wjlngr.jpg
   - 
     name: "Drevo z možicem"
     desc: "Primerno za enoletnike in starejše otroke. Spodbuja gibanje, koncentracijo, spuščanje predmeta."
     price: "18 €"
     image: 
       alt: "Drevo z možicem"
-      id: crke_1_kdscua.jpg
+      id: mozic_e5cfn2.jpg
   - 
     name: "Plošča za šivanje"
     desc: "Plošča s tremi barvnimi vrvicami za šivanje spodbuja koordinacijo, natančnost, ustvarjalnost."
     price: "12 €"
     image: 
       alt: "Plošča za šivanje"
-      id: crke_1_kdscua.jpg
+      id: plosca_za_sivanje_ewuuxv.jpg
   - 
     name: "Tipne (peščene) male pisane črke"
     desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi."
@@ -34,7 +34,7 @@ products:
     notice: "brez škatle"
     image: 
       alt: "Tipne (peščene) male pisane črke"
-      id: crke_1_kdscua.jpg
+      id: tipne_crke_yn2zq9.jpg
   - 
     name: "Male pisane premične črke"
     desc: "Lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
@@ -43,7 +43,7 @@ products:
     notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
     image: 
       alt: "Male pisane premične črke"
-      id: crke_1_kdscua.jpg
+      id: premicne_crke_h4ko0u.jpg
   - 
     name: "Pokončne male pisane premične črke"
     desc: "Pokončne lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
@@ -59,41 +59,72 @@ products:
     price: "28 €"
     image: 
       alt: "Abeceda‐ sestavljanka"
-      id: crke_1_kdscua.jpg
+      id: abeceda_sestavljanka_g0uphp.jpg
   - 
     name: "Lesene ploščice s števili (1‐9999)"
     desc: "Zapisovanje števil v desetiškem sistemu do 9999."
     price: "22 €"
     image: 
       alt: "Lesene ploščice s števili (1‐9999)"
-      id: crke_1_kdscua.jpg
+      id: stevila_o5mgzx.jpg
   - 
     name: "Tabla za množenje"
     desc: "Predstava količin do števila 100, učenje moženja, poštevanke."
     price: "38 €"
     image: 
       alt: "Tabla za množenje"
-      id: crke_1_kdscua.jpg
+      id: postevanka_2_aey02c.jpg
   - 
     name: "Diski"
     desc: "Spodbuja križni prijem, sledenje kotalečemu predmetu."
     price: "3,50 €"
     image: 
       alt: "Diski"
-      id: crke_1_kdscua.jpg
+      id: diski_kmkobc.jpg
   - 
     name: "Lesena ropotuljica"
     desc: "Lahka lesena ropotuljica"
     price: "8 €"
     image: 
       alt: "Lesena ropotuljica"
-      id: crke_1_kdscua.jpg
+      id: ropotuljice_idr6le.jpg
   - 
     name: "Spomin"
     desc: "Spomin v kombinaciji s slikami in številkami do števila 10."
     image: 
       alt: "Spomin"
-      id: crke_1_kdscua.jpg
+      id: spomin_2_fzzwhw.jpg
+images:
+  -
+    id: crke_3_vmtp12.jpg
+    alt: Pisane Montessori črke
+  -
+    id: crke_1_kdscua.jpg
+    alt: Pisane Montessori črke v škatli za pospravljanje
+  -
+    id: crke_skatla_dwawcv.jpg
+    alt: Pisane Montessori črke v škatli za pospravljanje
+  -
+    id: ropotuljice_2_x5xilf.jpg
+    alt: Montessori ropotuljice
+  -
+    id: ropotuljice_1_creaxc.jpg
+    alt: Montessori ropotuljice
+  -
+    id: postevanka_1_npbftl.jpg
+    alt: Preprosta poštevanka
+  -
+    id: postevanka_2_aey02c.jpg
+    alt: Preprosta poštevanka
+  -
+    id: spomin_1_avhqjl.jpg
+    alt: Spomin za prepoznavanje številk in simbolov
+  -
+    id: spomin_2_fzzwhw.jpg
+    alt: Spomin za prepoznavanje številk in simbolov
+  -
+    id: sestevanje_tdnjqt.jpg
+    alt: Vadenje seštevanja
 ---
 Pri Laserstvu Makuc smo že kar nekaj časa nazaj začeli izdelovati igrače po navdihu Montessori principov, ki so še danes aktualne, saj so primerne za otroke vseh starosti. Posredujemo vam nekaj slik in okvirnih cen. Cene se dajo prilagajati, saj je vse odvisno od velikosti in količine.
 

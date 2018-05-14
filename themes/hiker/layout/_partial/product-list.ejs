@@ -45,6 +45,16 @@
                 <div class="line-separator clearfix"></div>
             </div>
             <% } %>
+
+            <% if (page.images){ %>
+            <div id="gallery">
+                <% for (var i = 0; i < page.images.length; i++) { %>
+                <a href="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/f_auto/v<%- theme.cloudinary.version %>/<%- page.images[i].id %>" title="" class="fancybox" rel="article0">
+                    <img src="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/f_auto,c_limit,h_<%- theme.cloudinary.thumb.h %>,w_<%- theme.cloudinary.thumb.w %>/v<%- theme.cloudinary.version %>/<%- page.images[i].id %>" alt="<%- page.images[i].alt %>">
+                </a>
+                <% } %>
+            </div>
+            <% } %>
         </div>
     </div>
 </article>
