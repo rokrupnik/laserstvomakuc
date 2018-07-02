@@ -16,21 +16,21 @@ products:
   - 
     name: "Drevo z možicem"
     desc: "Primerno za enoletnike in starejše otroke. Spodbuja gibanje, koncentracijo, spuščanje predmeta."
-    price: "18 €"
+    # price: "18 €"
     image: 
       alt: "Drevo z možicem"
       id: mozic_e5cfn2.jpg
   - 
     name: "Plošča za šivanje"
     desc: "Plošča s tremi barvnimi vrvicami za šivanje spodbuja koordinacijo, natančnost, ustvarjalnost."
-    price: "12 €"
+    # price: "12 €"
     image: 
       alt: "Plošča za šivanje"
       id: plosca_za_sivanje_ewuuxv.jpg
   - 
     name: "Tipne (peščene) male pisane črke"
     desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi."
-    price: "60 €"
+    # price: "60 €"
     notice: "brez škatle"
     image: 
       alt: "Tipne (peščene) male pisane črke"
@@ -39,7 +39,7 @@ products:
     name: "Male pisane premične črke"
     desc: "Lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
            Cena je napisana za komplet po 8 modrih samoglasnikov in 4 rdeče soglasnike. Črke so rahlo ležeče."
-    price: "44 € (88 € skupaj s škatlo)"
+    # price: "44 € (88 € skupaj s škatlo)"
     notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
     image: 
       alt: "Male pisane premične črke"
@@ -48,7 +48,7 @@ products:
     name: "Pokončne male pisane premične črke"
     desc: "Pokončne lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
            Cena je napisana za komplet po 10 modrih samoglasnikov in 5 rdečih soglasnikov."
-    price: "60 € (100 € skupaj s škatlo)"
+    # price: "60 € (100 € skupaj s škatlo)"
     notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
     image: 
       alt: "Pokončne male pisane premične črke"
@@ -56,35 +56,35 @@ products:
   - 
     name: "Abeceda‐ sestavljanka"
     desc: "Ploščice z velikimi tiskanimi ali malimi tiskanimi ali pisanimi črkami na tabli s simboli, ki se začnejo na iskano črko (S – sekira, M - mačka)."
-    price: "28 €"
+    # price: "28 €"
     image: 
       alt: "Abeceda‐ sestavljanka"
       id: abeceda_sestavljanka_g0uphp.jpg
   - 
     name: "Lesene ploščice s števili (1‐9999)"
     desc: "Zapisovanje števil v desetiškem sistemu do 9999."
-    price: "22 €"
+    # price: "22 €"
     image: 
       alt: "Lesene ploščice s števili (1‐9999)"
       id: stevila_o5mgzx.jpg
   - 
     name: "Tabla za množenje"
     desc: "Predstava količin do števila 100, učenje moženja, poštevanke."
-    price: "38 €"
+    # price: "38 €"
     image: 
       alt: "Tabla za množenje"
       id: postevanka_2_aey02c.jpg
   - 
     name: "Diski"
     desc: "Spodbuja križni prijem, sledenje kotalečemu predmetu."
-    price: "3,50 €"
+    # price: "3,50 €"
     image: 
       alt: "Diski"
       id: diski_kmkobc.jpg
   - 
     name: "Lesena ropotuljica"
     desc: "Lahka lesena ropotuljica"
-    price: "8 €"
+    # price: "8 €"
     image: 
       alt: "Lesena ropotuljica"
       id: ropotuljice_idr6le.jpg
