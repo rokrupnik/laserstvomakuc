@@ -96,7 +96,7 @@
   <% } %>
 
   <!-- FB SHARING previews -->
-  <% if (is_post()){ %>
+  <% if (is_post() && post.images){ %>
     <link rel="image_src" href="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/f_auto/v<%- theme.cloudinary.version %>/<%- post.images[0].id %>" >
     <meta property="og:image" content="<%- theme.cloudinary.base_url %><%- theme.cloudinary.cloud_name %>/image/upload/f_auto/v<%- theme.cloudinary.version %>/<%- post.images[0].id %>" >
   <% } %>
