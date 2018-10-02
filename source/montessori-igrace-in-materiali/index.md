@@ -39,7 +39,7 @@ products:
     name: "Male pisane premične črke"
     desc: "Lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
            Cena je napisana za komplet po 8 modrih samoglasnikov in 4 rdeče soglasnike. Črke so rahlo ležeče."
-    # price: "44 € (88 € skupaj s škatlo)"
+    price: "90 € (130 € skupaj s škatlo)"
     notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
     image: 
       alt: "Male pisane premične črke"
