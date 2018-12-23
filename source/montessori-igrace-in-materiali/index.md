@@ -56,7 +56,7 @@ products:
   - 
     name: "Abeceda‐ sestavljanka"
     desc: "Ploščice z velikimi tiskanimi ali malimi tiskanimi ali pisanimi črkami na tabli s simboli, ki se začnejo na iskano črko (S – sekira, M - mačka)."
-    # price: "28 €"
+    price: "20 €"
     image: 
       alt: "Abeceda‐ sestavljanka"
       id: abeceda_sestavljanka_g0uphp.jpg
