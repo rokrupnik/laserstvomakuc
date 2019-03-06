@@ -20,7 +20,7 @@ Naslov: [Stara Oselica 67, 4225 Sovodenj, Poljanska dolina](https://goo.gl/maps/
 E-pošta: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si")
 Telefon: [040-664-639](tel:+38640664639 "040-664-639")
 
-TRR: SI56 6100 0001 2075 198 (Odprt pri banki Delavska hranilnica d.d.)
+TRR: SI56 0763 5720 3261 143 (Odprt pri banki Gorenjska banka d.d.)
 ID za DDV: 72823909 (nismo zavezanci za DDV)
 </div>
 </div>
