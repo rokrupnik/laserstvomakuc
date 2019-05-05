@@ -27,5 +27,5 @@ ID za DDV: 72823909 (nismo zavezanci za DDV)
 
 <div class="contact last">
 <h2>Kje nas najdete</h2>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2766.851670442678!2d14.051971915578637!3d46.093933979113416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477ae7eade87ffab%3A0x47fe15e1a6abcdf9!2sLaserstvo+Makuc!5e0!3m2!1ssl!2ssi!4v1520799677210" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="500px"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3418.9348710892223!2d14.051971915802428!3d46.09393769922244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477ae7eade87ffab%3A0x47fe15e1a6abcdf9!2sLaserstvo+Makuc!5e1!3m2!1sen!2ssi!4v1557086835886!5m2!1sen!2ssi" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="500px"></iframe>
 </div>
