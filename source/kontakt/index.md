@@ -8,7 +8,7 @@ date: 2012-04-18 17:52:33
 <div class="col-md-6">
 <h2>Kontaktirajte nas</h2>
 
-Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj ga bomo uresničili!</br>Lahko nam pišete iz vaše priljubljene aplikacije za e-pošto na naslov: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si").</br> Vedno smo dosegljivi tudi na telefonsko številko <nobr>[040-664-639](tel:+38640664639 "040-664-639")</nobr>.</br> Vašemu povpraševanju sledi informativni izračun cene in določitev datuma prevzema.
+Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj ga bomo uresničili!</br>Lahko nam pišete iz vaše priljubljene aplikacije za e-pošto na naslov: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si").</br> Vedno smo dosegljivi tudi na telefonsko številko <nobr>[041-962-554](tel:+38641962554 "041-962-554")</nobr>.</br> Vašemu povpraševanju sledi informativni izračun cene in določitev datuma prevzema.
 </div>
 
 <div class="col-md-6">
@@ -18,7 +18,7 @@ Laserstvo Makuc
 Naziv: Rok Rupnik s.p.
 Naslov: [Stara Oselica 67, 4225 Sovodenj, Poljanska dolina](https://goo.gl/maps/ssiJV4cd5Lr "Stara Oselica 67, 4225 Sovodenj")
 E-pošta: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si")
-Telefon: [040-664-639](tel:+38640664639 "040-664-639")
+Telefon: [041-962-554 (Petra Rupnik)](tel:+38641962554 "041-962-554")
 
 TRR: SI56 0763 5720 3261 143 (Odprt pri banki Gorenjska banka d.d.)
 ID za DDV: 72823909 (nismo zavezanci za DDV)
