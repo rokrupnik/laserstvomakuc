@@ -13,8 +13,6 @@ categories:
 images:
   - id: dekoracija_kmyl0s.jpg
     alt: Poročna dekoracija
-  - id: vabilo_fdtkyy.jpg
-    alt: Poročno vabilo
   - id: svecnik_ltwuvt.jpg
     alt: Dekorativni svečnik
   - id: svecnik-1_dnpk4f.jpg
