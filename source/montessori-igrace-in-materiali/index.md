@@ -36,9 +36,9 @@ products:
       alt: "Tipne (peščene) male pisane črke"
       id: tipne_crke_yn2zq9.jpg
   - 
-    name: "Male pisane premične črke"
+    name: "Poševne male pisane premične črke"
     desc: "Lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
-           Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so rahlo ležeče in na zadnji strani so bele, da lahko kontrolirate pravilnost postavljanja."
+           Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so rahlo ležeče in na zadnji strani so bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji."
     price: "90 € (130 € skupaj s škatlo)"
     # notice: " Škatla na sliki izdelujemo po dogovoru."
     image: 
@@ -47,7 +47,7 @@ products:
   - 
     name: "Pokončne male pisane premične črke"
     desc: "Pokončne lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
-           Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so zadaj bele, da lahko kontrolirate pravilnost postavljanja."
+           Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so zadaj bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji."
     price: "90 € (130 € skupaj s škatlo)"
    # notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
     image: 
