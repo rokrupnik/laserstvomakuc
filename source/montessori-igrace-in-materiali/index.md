@@ -16,21 +16,21 @@ products:
   - 
     name: "Drevo z možicem"
     desc: "Primerno za enoletnike in starejše otroke. Spodbuja gibanje, koncentracijo, spuščanje predmeta."
-    # price: "18 €"
+    price: "20 €"
     image: 
       alt: "Drevo z možicem"
       id: mozic_e5cfn2.jpg
   - 
     name: "Plošča za šivanje"
     desc: "Plošča s tremi barvnimi vrvicami za šivanje spodbuja koordinacijo, natančnost, ustvarjalnost."
-    # price: "12 €"
+    price: "12 €"
     image: 
       alt: "Plošča za šivanje"
       id: plosca_za_sivanje_ewuuxv.jpg
   - 
     name: "Tipne (peščene) male pisane črke"
-    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi."
-    # price: "60 €"
+    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu 24 tablic s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y)- Možno naročilo samo posameznih črk."
+    price: "60 €"
     notice: "brez škatle"
     image: 
       alt: "Tipne (peščene) male pisane črke"
@@ -40,7 +40,7 @@ products:
     desc: "Lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
            Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so rahlo ležeče in na zadnji strani so bele, da lahko kontrolirate pravilnost postavljanja."
     price: "90 € (130 € skupaj s škatlo)"
-    # notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
+    # notice: " Škatla na sliki izdelujemo po dogovoru."
     image: 
       alt: "Male pisane premične črke"
       id: premicne_crke_h4ko0u.jpg
@@ -49,7 +49,7 @@ products:
     desc: "Pokončne lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
            Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so zadaj bele, da lahko kontrolirate pravilnost postavljanja."
     price: "90 € (130 € skupaj s škatlo)"
-    # notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
+   # notice: "Škatle ne izdelujemo več, izjema za kakšen vrtec."
     image: 
       alt: "Pokončne male pisane premične črke"
       id: crke_1_kdscua.jpg
