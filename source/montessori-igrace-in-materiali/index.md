@@ -29,7 +29,7 @@ products:
       id: plosca_za_sivanje_ewuuxv.jpg
   - 
     name: "Tipne (peščene) male pisane črke"
-    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu 24 tablic s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y)- Možno naročilo samo posameznih črk."
+    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu 24 tablic s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y). Možno naročilo samo posameznih črk."
     price: "60 €"
     notice: "brez škatle"
     image: 
