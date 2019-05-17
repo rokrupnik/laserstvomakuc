@@ -41,7 +41,7 @@ products:
   - 
     name: "Spomin slika - številka"
     desc: "Spomin v kombinaciji s slikami in številkami do števila 10."
-    price: "12 €"
+    price: "10 €"
     image: 
       alt: "Spomin"
       id: spomin_2_fzzwhw.jpg
