@@ -51,7 +51,8 @@ products:
     price: "20 €"
     image: 
       alt: "Abeceda‐ sestavljanka"
-      id: abeceda_sestavljanka_g0uphp.jpg  - 
+      id: abeceda_sestavljanka_g0uphp.jpg
+  - 
     name: "Zasledovalec"
     desc: "Najbolj primeren za otroke v starosti od 9 mesecev do 3 let. Spodbuja gibanje, spuščanje predmeta, sledenje z očmi (pomembno za kasnejše branje/pisanje), koncentracijo, potrpežljivost."
     price: "120 €"
