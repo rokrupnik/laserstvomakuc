@@ -43,7 +43,7 @@ products:
            Zunanja dimenzija Večje škatle, prikazana na sliki je 76cm x 36,5 cm. 
            Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e)."
     price: "90 € (150 € skupaj s škatlo)"
-   notice: "Na voljo sta dve različni škatli." 
+    notice:  "Na voljo sta dve različni škatli." 
     image: 
       alt: "Male pisane premične črke"
       id: premicne_crke_h4ko0u.jpg
@@ -55,7 +55,7 @@ products:
            Zunanja dimenzija Večje škatle, prikazana na sliki je 76cm x 36,5 cm. 
            Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e)."
     price: "90 € (150 € skupaj s škatlo)"
-   notice: "Na voljo sta dve različni škatli."
+    notice:  "Na voljo sta dve različni škatli."
     image: 
       alt: "Pokončne male pisane premične črke"
       id: crke_1_kdscua.jpg
