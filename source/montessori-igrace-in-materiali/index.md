@@ -7,27 +7,6 @@ main_image:
   id: crke_1_kdscua.jpg
 products: 
   - 
-    name: "Zasledovalec"
-    desc: "Najbolj primeren za otroke v starosti od 9 mesecev do 3 let. Spodbuja gibanje, spuščanje predmeta, sledenje z očmi (pomembno za kasnejše branje/pisanje), koncentracijo, potrpežljivost."
-    price: "120 €"
-    image: 
-      alt: "Zasledovalec"
-      id: zasledovalec_wjlngr.jpg
-  - 
-    name: "Drevo z možicem"
-    desc: "Primerno za enoletnike in starejše otroke. Spodbuja gibanje, koncentracijo, spuščanje predmeta."
-    price: "20 €"
-    image: 
-      alt: "Drevo z možicem"
-      id: mozic_e5cfn2.jpg
-  - 
-    name: "Plošča za šivanje"
-    desc: "Plošča s tremi barvnimi vrvicami za šivanje spodbuja koordinacijo, natančnost, ustvarjalnost."
-    price: "12 €"
-    image: 
-      alt: "Plošča za šivanje"
-      id: plosca_za_sivanje_ewuuxv.jpg
-  - 
     name: "Tipne (peščene) male pisane črke"
     desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu 24 tablic s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y). Možno naročilo samo posameznih črk."
     price: "60 €"
@@ -60,12 +39,39 @@ products:
       alt: "Pokončne male pisane premične črke"
       id: crke_1_kdscua.jpg
   - 
+    name: "Spomin slika - številka"
+    desc: "Spomin v kombinaciji s slikami in številkami do števila 10."
+    price: "12 €"
+    image: 
+      alt: "Spomin"
+      id: spomin_2_fzzwhw.jpg
+  - 
     name: "Abeceda ‐ sestavljanka"
     desc: "Ploščice z velikimi tiskanimi ali malimi tiskanimi ali pisanimi črkami na tabli s simboli, ki se začnejo na iskano črko (S – sekira, M - mačka)."
     price: "20 €"
     image: 
       alt: "Abeceda‐ sestavljanka"
-      id: abeceda_sestavljanka_g0uphp.jpg
+      id: abeceda_sestavljanka_g0uphp.jpg  - 
+    name: "Zasledovalec"
+    desc: "Najbolj primeren za otroke v starosti od 9 mesecev do 3 let. Spodbuja gibanje, spuščanje predmeta, sledenje z očmi (pomembno za kasnejše branje/pisanje), koncentracijo, potrpežljivost."
+    price: "120 €"
+    image: 
+      alt: "Zasledovalec"
+      id: zasledovalec_wjlngr.jpg
+  - 
+    name: "Drevo z možicem"
+    desc: "Primerno za enoletnike in starejše otroke. Spodbuja gibanje, koncentracijo, spuščanje predmeta."
+    price: "20 €"
+    image: 
+      alt: "Drevo z možicem"
+      id: mozic_e5cfn2.jpg
+  - 
+    name: "Plošča za šivanje"
+    desc: "Plošča s tremi barvnimi vrvicami za šivanje spodbuja koordinacijo, natančnost, ustvarjalnost."
+    price: "12 €"
+    image: 
+      alt: "Plošča za šivanje"
+      id: plosca_za_sivanje_ewuuxv.jpg
   - 
     name: "Lesene ploščice s števili (1‐9999)"
     desc: "Zapisovanje števil v desetiškem sistemu do 9999."
@@ -94,13 +100,6 @@ products:
     image: 
       alt: "Lesena ropotuljica"
       id: ropotuljice_idr6le.jpg
-  - 
-    name: "Spomin slika - številka"
-    desc: "Spomin v kombinaciji s slikami in številkami do števila 10."
-    price: "12 €"
-    image: 
-      alt: "Spomin"
-      id: spomin_2_fzzwhw.jpg
 images:
   -
     id: crke_3_vmtp12.jpg
