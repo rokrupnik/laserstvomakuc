@@ -5,7 +5,7 @@ type: product-list
 main_image: 
   alt: "Montessori abeceda"
   id: crke_1_kdscua.jpg
-products: 
+products:
   - 
     name: "Tipne (peščene) male pisane črke"
     desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu 24 tablic s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y). Možno naročilo samo posameznih črk."
