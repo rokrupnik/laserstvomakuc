@@ -95,8 +95,9 @@ products:
       alt: "Lesena ropotuljica"
       id: ropotuljice_idr6le.jpg
   - 
-    name: "Spomin"
+    name: "Spomin slika - številka"
     desc: "Spomin v kombinaciji s slikami in številkami do števila 10."
+    price: "12 €"
     image: 
       alt: "Spomin"
       id: spomin_2_fzzwhw.jpg
