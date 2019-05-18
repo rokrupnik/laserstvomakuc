@@ -1,5 +1,5 @@
 ---
-title: Golobčki kot darilo za birmo
+title: Golobček - darilo za birmo
 tags:
   - lasersko graviranje
   - laserski izrez
