@@ -25,10 +25,7 @@ images:
     alt: Izrezane črke
   - id: DSC_0077_milck0.jpg
     alt: Izrezane črke
-  - id: DSC_0065_gmz7rh.jpg
-    alt: Napis za torto
-  - id: DSC_0064_2_jlpc90.jpg
-    alt: Napis za torto
+
 comment: false
 date: 2018-07-26 18:53:17
 ---
