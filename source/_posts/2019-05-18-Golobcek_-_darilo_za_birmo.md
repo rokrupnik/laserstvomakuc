@@ -12,7 +12,7 @@ categories:
 images:
   - id: simbol_svetega_duha.jpg
     alt: Simbol svetega duha
-  - id: simbol_svetega_duga_1.jpg
+  - id: simbol_svetega_duha_1.jpg
     alt: Simbol svetega duha
 comment: false
 date: 2019-05-18 19:23:51
