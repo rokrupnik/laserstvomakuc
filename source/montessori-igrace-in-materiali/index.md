@@ -133,8 +133,10 @@ images:
     id: sestevanje_tdnjqt.jpg
     alt: Vadenje seštevanja
 ---
-Pri Laserstvu Makuc smo že kar nekaj časa nazaj začeli izdelovati igrače po navdihu Montessori principov, ki so še danes aktualne, saj so primerne za otroke vseh starosti. Posredujemo vam nekaj slik in okvirnih cen. Cene se dajo prilagajati, saj je vse odvisno od velikosti in količine.
+Pri Laserstvu Makuc smo že kar nekaj časa nazaj začeli izdelovati  lesene igrače po navdihu Montessori principov, ki so še danes aktualne, saj so primerne za otroke vseh starosti. Posredujemo vam nekaj slik in okvirnih cen. Cene se dajo prilagajati, saj je vse odvisno od velikosti in količine.
 
-Vemo, da so montessori igrače "draga" igrača. No pri nas ne želimo, da so montesori igrače nekaj, kar je dostopno samo premožnim družinam, ampak tudi tistim, ki si ne morejo vsega privoščiti.  Zato je cena takšna, kot bi jo dali za kateri koli drug vgraviran kos v katero koli nekovino, ki bi si ga zaželeli pri nas. V ceni je vštet material, lasersko graviranje, laserski razrez, oblikovanje in dejanski čas izdelave. 
+V ceno je vštet material, lasersko graviranje, laserski razrez, oblikovanje in dejanski čas izdelave.
 
-Spodbujamo iznajdljive in pripravne starše, ki si vzamejo čas za svoje otroke. Da bo ta čas res koristno porabljen, vam lahko malo pomagamo tudi mi.
+Spodbujamo iznajdljive in pripravne starše, da aktivno izkoristijo čas s svojimi otroki. Montessori igrače izdelujemo iz lesa, ki se ne lomi in krivi. Zdržijo več otrok, dokler se vseh črk od velike uporabe ne izgubi ;). 
+
+Laserstvo Makuc
