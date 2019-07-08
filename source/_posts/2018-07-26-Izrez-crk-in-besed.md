@@ -31,6 +31,8 @@ images:
     alt: Lesen napis
   - id: lesen_napis_za_na_vrata_3.jpg
     alt: Lesen napis
+  - id: Napisi_v_otroski_sobi_1.jpg
+    alt: Napisi v otroški sobi
 
 comment: false
 date: 2018-07-26 18:53:17
