@@ -22,7 +22,7 @@ images:
   - id: DSC_0073_nawbdm.jpg
     alt: Izrezane črke
   - id: DSC_0075_krpwjq.jpg
-    alt: Izrezane črke
+    alt: Izrezane črke 
   - id: DSC_0076_i7sjmy.jpg
     alt: Izrezane črke
   - id: DSC_0077_milck0.jpg
