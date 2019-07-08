@@ -17,6 +17,8 @@ images:
     alt: Ime za vrata
   - id: IMG_20180630_184831_mx9b6m.jpg
     alt: Ime za vrata
+  - id: Napisi_v_otroski_sobi_1.jpg
+    alt: Napisi v otroški sobi
   - id: DSC_0073_nawbdm.jpg
     alt: Izrezane črke
   - id: DSC_0075_krpwjq.jpg
@@ -31,8 +33,6 @@ images:
     alt: Lesen napis
   - id: lesen_napis_za_na_vrata_3.jpg
     alt: Lesen napis
-  - id: Napisi_v_otroski_sobi_1.jpg
-    alt: Napisi v otroški sobi
 
 comment: false
 date: 2018-07-26 18:53:17
