@@ -135,11 +135,11 @@ images:
     id: sestevanje_tdnjqt.jpg
     alt: Vadenje seštevanja
   -
-    id: sestevanje_tdnjqt.jpg
-    alt: Vadenje seštevanja
+    id: montessori_crke_1.jpg
+    alt: Montessori črke
   -
-    id: sestevanje_tdnjqt.jpg
-    alt: Vadenje seštevanja
+    id: montessori_crke_2.jpg
+    alt: Montessori črke
 ---
 Pri Laserstvu Makuc smo že kar nekaj časa nazaj začeli izdelovati  lesene igrače po navdihu Montessori principov, ki so še danes aktualne, saj so primerne za otroke vseh starosti. Posredujemo vam nekaj slik in okvirnih cen. Cene se dajo prilagajati, saj je vse odvisno od velikosti in količine.
 
