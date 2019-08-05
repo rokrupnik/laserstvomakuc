@@ -20,7 +20,7 @@ products:
            Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so rahlo ležeče in na zadnji strani so bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji. Okvirne dimenzije črk kot so K, L in J je 12 cm, črke kot so M, N in R pa v velikosti 5 cm. 
            Po dogovoru lahko izdelamo tudi škatlo. Na voljo sta dve različni škatli (Manjša in Večja).
            Zunanja dimenzija Večje škatle, prikazana na sliki je 76cm x 36,5 cm. 
-           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e)."
+           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e). Slika je vidna spodaj."
     price: "90 € (150 € skupaj s škatlo)"
     notice:  "Na voljo sta dve različni škatli." 
     image: 
@@ -32,7 +32,7 @@ products:
            Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so zadaj bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji. Okvirne dimenzije črk kot so K, L in J je 12 cm, črke kot so M, N in R pa v velikosti 5 cm.
            Po dogovoru lahko izdelamo tudi škatlo. Na voljo sta dve različni škatli (Manjša in Večja).
            Zunanja dimenzija Večje škatle, prikazana na sliki je 76cm x 36,5 cm. 
-           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e)."
+           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e). Slika je vidna spodaj."
     price: "90 € (150 € skupaj s škatlo)"
     notice:  "Na voljo sta dve različni škatli."
     image: 
