@@ -112,6 +112,30 @@ images:
     id: crke_skatla_dwawcv.jpg
     alt: Pisane Montessori črke v škatli za pospravljanje
   -
+    id: montessori_crke_1.jpg
+    alt: Montessori črke
+  -
+    id: montessori_crke_2.jpg
+    alt: Montessori črke  
+  -
+    id: montessori_crke_3.jpg
+    alt: Montessori črke
+  -
+    id: montessori_crke_4.jpg
+    alt: Montessori črke  
+  -
+    id: montessori_crke_5.jpg
+    alt: Montessori črke
+  -
+    id: montessori_crke_v_modro_rdeci_skatli_2.jpg
+    alt: Montessori črke  
+  -
+    id: montessori_crke_v_modro_rdeci_skatli_3.jpg
+    alt: Montessori črke  
+  -
+    id: DSC_0044_uinhfu.jpg
+    alt: Montessori črke
+  -
     id: ropotuljice_2_x5xilf.jpg
     alt: Montessori ropotuljice
   -
@@ -132,12 +156,7 @@ images:
   -
     id: sestevanje_tdnjqt.jpg
     alt: Vadenje seštevanja
-  -
-    id: montessori_crke_1.jpg
-    alt: Montessori črke
-  -
-    id: montessori_crke_2.jpg
-    alt: Montessori črke
+
 ---
 Pri Laserstvu Makuc smo že kar nekaj časa nazaj začeli izdelovati  lesene igrače po navdihu Montessori principov, ki so še danes aktualne, saj so primerne za otroke vseh starosti. Posredujemo vam nekaj slik in okvirnih cen. Cene se dajo prilagajati, saj je vse odvisno od velikosti in količine.
 
