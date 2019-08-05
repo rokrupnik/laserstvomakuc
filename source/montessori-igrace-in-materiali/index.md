@@ -38,6 +38,8 @@ products:
     image: 
       alt: "Pokončne male pisane premične črke"
       id: crke_1_kdscua.jpg
+      alt: "Pokončne male pisane premične črke v modro rdeči škatli"
+      id: montessori%20crke%20v%20modro%20rdeci%20skatli%202.jpg
   - 
     name: "Spomin slika - številka"
     desc: "Spomin v kombinaciji s slikami in številkami do števila 10."
