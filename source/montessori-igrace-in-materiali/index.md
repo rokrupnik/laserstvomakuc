@@ -54,7 +54,7 @@ products:
       id: abeceda_sestavljanka_g0uphp.jpg
   - 
     name: "Zasledovalec"
-    desc: "Najbolj primeren za otroke v starosti od 9 mesecev do 3 let. Spodbuja gibanje, spuščanje predmeta, sledenje z očmi (pomembno za kasnejše branje/pisanje), koncentracijo, potrpežljivost."
+    desc: "Najbolj primeren za otroke v starosti od 9 mesecev do 3 let. Spodbuja gibanje, spuščanje predmeta, sledenje z očmi (pomembno za kasnejše branje/pisanje), koncentracijo, potrpežljivost. Več na spletni strani: [(https://www.laserstvomakuc.si/2013/01/23/zasledovalec/")]
     price: "120 €"
     image: 
       alt: "Zasledovalec"
@@ -73,34 +73,7 @@ products:
     image: 
       alt: "Plošča za šivanje"
       id: plosca_za_sivanje_ewuuxv.jpg
-  - 
-    name: "Lesene ploščice s števili (1‐9999)"
-    desc: "Zapisovanje števil v desetiškem sistemu do 9999."
-    # price: "22 €"
-    image: 
-      alt: "Lesene ploščice s števili (1‐9999)"
-      id: stevila_o5mgzx.jpg
-  - 
-    name: "Tabla za množenje"
-    desc: "Predstava količin do števila 100, učenje moženja, poštevanke."
-    # price: "38 €"
-    image: 
-      alt: "Tabla za množenje"
-      id: postevanka_2_aey02c.jpg
-  - 
-    name: "Diski"
-    desc: "Spodbuja križni prijem, sledenje kotalečemu predmetu."
-    # price: "3,50 €"
-    image: 
-      alt: "Diski"
-      id: diski_kmkobc.jpg
-  - 
-    name: "Lesena ropotuljica"
-    desc: "Lahka lesena ropotuljica"
-    # price: "8 €"
-    image: 
-      alt: "Lesena ropotuljica"
-      id: ropotuljice_idr6le.jpg
+
 images:
   -
     id: crke_3_vmtp12.jpg
