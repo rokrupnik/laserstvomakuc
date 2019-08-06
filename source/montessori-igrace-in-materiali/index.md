@@ -54,7 +54,7 @@ products:
       id: abeceda_sestavljanka_g0uphp.jpg
   - 
     name: "Zasledovalec"
-    desc: "Najbolj primeren za otroke v starosti od 9 mesecev do 3 let. Spodbuja gibanje, spuščanje predmeta, sledenje z očmi (pomembno za kasnejše branje/pisanje), koncentracijo, potrpežljivost. Več na spletni strani: [(https://www.laserstvomakuc.si/2013/01/23/zasledovalec/")]
+    desc: "Najbolj primeren za otroke v starosti od 9 mesecev do 3 let. Spodbuja gibanje, spuščanje predmeta, sledenje z očmi (pomembno za kasnejše branje/pisanje), koncentracijo, potrpežljivost.
     price: "120 €"
     image: 
       alt: "Zasledovalec"
