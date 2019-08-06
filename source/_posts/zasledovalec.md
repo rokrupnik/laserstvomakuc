@@ -23,8 +23,6 @@ images:
 
 Izdelali smo didaktični pripomoček, ki odlično zaposli otroke in obenem razvija njihove gibalne in mentalne sposobnosti.
 
-Več si lahko preberete v opisu Zasledovalca in ogledate v priloženi fotogaleriji.
-
 **Zasledovalec - didaktični pripomoček**
 
 Zasledovalec se uporablja v programih, ki delujejo po načelih pedagogike montessori. Namenjen je predvsem otrokom, ko se pričnejo dvigovati in so sposobni stati. Še mlajši pa sprva ob njem ležijo na trebuhu (pasejo kravce) ali sedijo in opazujejo kotalečo se žogico. Postopno želijo doseči luknjo na vrhu, kar pa jih vzpodbudi, da se potegnejo navzgor.
@@ -37,9 +35,8 @@ Ponavljajoča vaja otroku pri igri z zasledovalcem prinaša umirjenost in zadovo
 
 * * *
 
-Cena: 90 €
+Cena: 120 €
 
-Čas izdelave: približno 14 dni
 
 Dimenzije:
 
