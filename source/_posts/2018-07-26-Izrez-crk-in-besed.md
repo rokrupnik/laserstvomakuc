@@ -35,7 +35,7 @@ images:
     alt: Lesen napis
 
 comment: false
-date: 2018-07-26 18:53:17
+date: 2019-07-26 18:53:17
 ---
 Leseni napisi so zdijo zelo privlačni, še posebej, ko gredo na vrata otroške sobe, nad posteljico ali pa na torto. Ja, domišljija je neustavljiva in po naročilu naših strank smo naredili tudi nekaj takih izdelkov. Črke in besede so lahko pisane, tiskane, ležeče ali pa zelo velike, da se jih vidi že na daleč. 
 
