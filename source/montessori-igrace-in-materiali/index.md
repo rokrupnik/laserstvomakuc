@@ -8,7 +8,7 @@ main_image:
 products:
   - 
     name: "Tipne (peščene) male pisane črke"
-    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu 24 tablic s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y). Možno naročilo samo posameznih črk."
+    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu skupaj 32 tablic. Vključuje tablice s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y). Možno naročilo samo posameznih črk."
     price: "60 €"
     notice: "brez škatle"
     image: 
@@ -109,26 +109,11 @@ images:
     id: DSC_0044_uinhfu.jpg
     alt: Montessori črke
   -
-    id: ropotuljice_2_x5xilf.jpg
-    alt: Montessori ropotuljice
-  -
-    id: ropotuljice_1_creaxc.jpg
-    alt: Montessori ropotuljice
-  -
-    id: postevanka_1_npbftl.jpg
-    alt: Preprosta poštevanka
-  -
-    id: postevanka_2_aey02c.jpg
-    alt: Preprosta poštevanka
-  -
     id: spomin_1_avhqjl.jpg
     alt: Spomin za prepoznavanje številk in simbolov
   -
     id: spomin_2_fzzwhw.jpg
     alt: Spomin za prepoznavanje številk in simbolov
-  -
-    id: sestevanje_tdnjqt.jpg
-    alt: Vadenje seštevanja
 
 ---
 Pri Laserstvu Makuc smo že kar nekaj časa nazaj začeli izdelovati  lesene igrače po navdihu Montessori principov, ki so še danes aktualne, saj so primerne za otroke vseh starosti. Posredujemo vam nekaj slik in okvirnih cen. Cene se dajo prilagajati, saj je vse odvisno od velikosti in količine.
