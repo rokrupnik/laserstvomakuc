@@ -23,10 +23,6 @@ images:
     alt: Stojalo za meni
   - id: broske-1_prdrnp.jpg
     alt: Poročne broške za svate
-  - id: broske_xeyrz7.jpg
-    alt: Poročne broške za svate
-  - id: broske-2_xqgzlx.jpg
-    alt: Poročne broške za svate
   - id: stojalo_xknniy.jpg
     alt: Stojalo za poročno torto
   - id: stojalo-1_b7jpii.jpg
