@@ -12,10 +12,6 @@ images:
     alt: Naslovnica poročnega albuma
   - id: Porocni_album_naslovnica_1_i90hxt.jpg
     alt: Naslovnica poročnega albuma
-  - id: Porocni_album_strani_2_wa1qx1.jpg
-    alt: Strani v poročnem albumu
-  - id: Porocni_album_platnica_uv3lzw.jpg
-    alt: Zadnja platnica poročnega albuma
 comment: false
 date: 2019-03-07 19:23:51
 ---
