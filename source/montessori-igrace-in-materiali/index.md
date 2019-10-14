@@ -15,29 +15,17 @@ products:
       alt: "Tipne (peščene) male pisane črke"
       id: Tipne_montessori_crke_1.jpg
   - 
-    name: "Poševne male pisane premične črke"
-    desc: "Lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
-           Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so rahlo ležeče in na zadnji strani so bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji. Okvirne dimenzije črk kot so K, L in J je 12 cm, črke kot so M, N in R pa v velikosti 5 cm. 
-           Po dogovoru lahko izdelamo tudi škatlo. Na voljo sta dve različni škatli (Manjša in Večja).
-           Zunanja dimenzija Večje škatle, prikazana na sliki je 76cm x 36,5 cm. 
-           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e). Slika je vidna spodaj."
-    price: "90 € (150 € skupaj s škatlo)"
-    notice:  "Na voljo sta dve različni škatli." 
-    image: 
-      alt: "Male pisane premične črke"
-      id: premicne_crke_h4ko0u.jpg
-  - 
     name: "Pokončne male pisane premične črke"
     desc: "Pokončne lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
            Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so zadaj bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji. Okvirne dimenzije črk kot so K, L in J je 12 cm, črke kot so M, N in R pa v velikosti 5 cm.
            Po dogovoru lahko izdelamo tudi škatlo. Na voljo sta dve različni škatli (Manjša in Večja).
            Zunanja dimenzija Večje škatle, prikazana na sliki je 76cm x 36,5 cm. 
-           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e). Slika je vidna spodaj."
+           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e). Več slik imate na voljo spodaj."
     price: "90 € (150 € skupaj s škatlo)"
     notice:  "Na voljo sta dve različni škatli."
     image: 
       alt: "Pokončne male pisane premične črke"
-      id: crke_1_kdscua.jpg
+      id: montessori_crke_1.jpg
   - 
     name: "Spomin slika - številka"
     desc: "Spomin v kombinaciji s slikami in številkami do števila 10."
