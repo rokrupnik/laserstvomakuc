@@ -8,12 +8,12 @@ main_image:
 products:
   - 
     name: "Tipne (peščene) male pisane črke"
-    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu skupaj 32 tablic. Vključuje tablice s slovenskimi črkami, vprašaj, klicaj in angleške črke (W, Q, X, Y). Možno naročilo samo posameznih črk."
+    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Več slik imate na voljo spodaj. "
     price: "60 €"
     notice: "brez škatle"
     image: 
       alt: "Tipne (peščene) male pisane črke"
-      id: tipne_crke_yn2zq9.jpg
+      id: Tipne_montessori_crke_1.jpg
   - 
     name: "Poševne male pisane premične črke"
     desc: "Lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
@@ -108,6 +108,15 @@ images:
   -
     id: DSC_0044_uinhfu.jpg
     alt: Montessori črke
+  -
+    id: Tipne_montessori_crke_2.jpg
+    alt: Tipne montessori črke 
+  -
+    id: Tipne_montessori_crke_3.jpg
+    alt: Tipne montessori črke  
+  -
+    id: Tipne_montessori_crke_4.jpg
+    alt: Tipne montessori črke
   -
     id: spomin_1_avhqjl.jpg
     alt: Spomin za prepoznavanje številk in simbolov
