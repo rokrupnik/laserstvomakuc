@@ -10,20 +10,14 @@ categories:
   - Novice
   - Izdelki
 images:
-  - id: DSC_0014_2_cdqgwa.jpg
-    alt: Ime za vrata
-  - id: IMG_20180630_184747_ljfao0.jpg
-    alt: Ime za vrata
-  - id: IMG_20180630_184806_nubc91.jpg
-    alt: Ime za vrata
-  - id: IMG_20180630_184831_mx9b6m.jpg
-    alt: Ime za vrata
-  - id: Napisi_v_otroski_sobi_1.jpg
-    alt: Napisi v otroški sobi
-  - id: DSC_0073_nawbdm.jpg
-    alt: Izrezane črke
-  - id: 
-    alt: 
+  - id: Tipne_montessori_crke_1.jpg
+    alt: "Tipne (peščene) male pisane črke"
+  - id: Tipne_montessori_crke_2.jpg
+    alt: Tipne montessori črke 
+  - id: Tipne_montessori_crke_3.jpg
+    alt: Tipne montessori črke  
+  - id: Tipne_montessori_crke_4.jpg
+    alt: Tipne montessori črke
 
 comment: false
 date: 2019-07-26 18:53:17
