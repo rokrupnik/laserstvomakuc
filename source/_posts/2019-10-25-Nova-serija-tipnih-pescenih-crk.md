@@ -20,7 +20,7 @@ images:
     alt: Tipne montessori črke
 
 comment: false
-date: 2019-07-26 18:53:17
+date: 2019-10-25 18:53:17
 ---
 S pomočjo strank in izobraževanj, smo nadgradili tipne peščene male pisane črke. Samoglasniki na modri in soglasniki na rdeči podlagi.
 Tokrat je na podlago nameščen brusni papir Tip600, ki je primeren za tovrsten način dela. Pisava je enake velikosti kot so premične pisane črke, ki jih prodajamo posamično ali skupaj s škatlo. 
