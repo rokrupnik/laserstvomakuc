@@ -18,6 +18,10 @@ images:
     alt: Tipne montessori črke  
   - id: Tipne_montessori_crke_4.jpg
     alt: Tipne montessori črke
+  - id: montessori_crke_5.jpg
+    alt: Montessori črke
+  - id: montessori_crke_v_modro_rdeci_skatli_2.jpg
+    alt: Montessori črke 
 
 comment: false
 date: 2019-10-25 18:53:17
