@@ -8,7 +8,7 @@ main_image:
 products:
   - 
     name: "Tipne (peščene) male pisane črke"
-    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Več slik imate na voljo spodaj. "
+    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Slika je simbolična. "
     price: "60 €"
     notice: "brez škatle"
     image: 
@@ -56,11 +56,11 @@ products:
       id: mozic_e5cfn2.jpg
   - 
     name: "Plošča za šivanje"
-    desc: "Plošča s tremi barvnimi vrvicami za šivanje spodbuja koordinacijo, natančnost, ustvarjalnost."
+    desc: "Plošča za šivanje spodbuja koordinacijo, natančnost, ustvarjalnost."
     price: "12 €"
     image: 
       alt: "Plošča za šivanje"
-      id: plosca_za_sivanje_ewuuxv.jpg
+      id: Plosca_za_sivanje_1.jpg
 
 images:
   -
@@ -111,6 +111,9 @@ images:
   -
     id: spomin_2_fzzwhw.jpg
     alt: Spomin za prepoznavanje številk in simbolov
+  -
+    id: Plosca_za_sivanje_2.jpg
+    alt: Plošča za šivanje
 
 ---
 Pri Laserstvu Makuc smo že kar nekaj časa nazaj začeli izdelovati  lesene igrače po navdihu Montessori principov, ki so še danes aktualne, saj so primerne za otroke vseh starosti. Posredujemo vam nekaj slik in okvirnih cen. Cene se dajo prilagajati, saj je vse odvisno od velikosti in količine.
