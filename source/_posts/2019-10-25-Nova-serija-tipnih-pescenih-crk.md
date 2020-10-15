@@ -28,6 +28,8 @@ date: 2019-10-25 18:53:17
 ---
 S pomočjo strank in izobraževanj, smo nadgradili tipne peščene male pisane črke. Samoglasniki na modri in soglasniki na rdeči podlagi.
 Tokrat je na podlago nameščen brusni papir granulacije 80, ki je primeren za tovrsten način dela. Pisava je enake velikosti kot so premične pisane črke, ki jih prodajamo posamično ali skupaj s škatlo. 
-V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Cena ostaja enaka, kot pri prejšnjih. (60 € za komplet)
+V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Cena ostaja enaka, kot pri prejšnjih. (60 € za komplet).
+
+Več informacij na naši strani: (https://www.laserstvomakuc.si/montessori-igrace-in-materiali)[https://www.laserstvomakuc.si/montessori-igrace-in-materiali]
 
 Laserstvo Makuc 
