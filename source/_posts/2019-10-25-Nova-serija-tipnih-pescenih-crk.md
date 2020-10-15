@@ -30,6 +30,6 @@ S pomočjo strank in izobraževanj, smo nadgradili tipne peščene male pisane �
 Tokrat je na podlago nameščen brusni papir granulacije 80, ki je primeren za tovrsten način dela. Pisava je enake velikosti kot so premične pisane črke, ki jih prodajamo posamično ali skupaj s škatlo. 
 V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Cena ostaja enaka, kot pri prejšnjih. (60 € za komplet).
 
-Več informacij na naši strani: (https://www.laserstvomakuc.si/montessori-igrace-in-materiali)[https://www.laserstvomakuc.si/montessori-igrace-in-materiali]
+Več informacij na <a href="https://www.laserstvomakuc.si/montessori-igrace-in-materiali">strani o naših Montessori lesenih izdelkih</a>.
 
 Laserstvo Makuc 
