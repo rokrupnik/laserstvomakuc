@@ -5,18 +5,24 @@
 
 .product-list
   margin-top : 20px
-  .article-entry #gallery.products a
-    float : left
-    &.float-right
-      float : right
+  .article-entry #gallery.products
+    .product
+      margin-bottom: 40px
+    a
+      float : left
       img
-        margin-left : 20px
-        margin-right : 0
-        @media mq-mobile
-          margin-left : 0
-    img
-      &:hover
-        transform : scale(1.05)
+        margin-right: 30px
+        margin-bottom 40px
+      &.float-right
+        float : right
+        img
+          margin-left : 30px
+          margin-right : 0
+          @media mq-mobile
+            margin-left : 0
+      img
+        &:hover
+          transform : scale(1.05)
   .article-entry h2
     padding : .5em 0 0
 
