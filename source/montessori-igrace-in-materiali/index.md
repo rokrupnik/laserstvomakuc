@@ -7,12 +7,12 @@ main_image:
   id: crke_1_kdscua.jpg
 products:
   - 
-    name: "Tipne (peščene) male pisane črke"
-    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Slika je simbolična. "
+    name: "Tipne (peščene) črke"
+    desc: "Samoglasniki na modri in soglasniki na rdeči podlagi za tipno učenje zapisovanja pisanih črk in spoznavanje z zapisom glasov. Izvedba možna v rahlo ležeči ali povsem pokončni pisavi. Pokončne črke lahko naredimo tudi tiskane.  V kompletu skupaj 25 tablic. Možno naročilo samo posameznih črk. Slika je simbolična. "
     price: "60 €"
     notice: "brez škatle"
     image: 
-      alt: "Tipne (peščene) male pisane črke"
+      alt: "Tipne (peščene) črke"
       id: Tipne_montessori_crke_1.jpg
   - 
     name: "Pokončne male pisane premične črke"
