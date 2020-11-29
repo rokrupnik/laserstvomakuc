@@ -134,4 +134,12 @@
 
     $container.removeClass('mobile-nav-on');
   });
+  
+  ///////////////////////////////////////////// CTA BUTTONS on category page ///////////////////////////////////////////
+  
+  $('#product-list .cta-btn').click(function() {
+    console.log(this.dataset.product);
+  })
+  
+  
 })(jQuery);
