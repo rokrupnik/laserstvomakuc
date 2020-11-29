@@ -10,7 +10,7 @@ date: 2012-04-18 17:52:33
 
 Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj ga bomo uresničili!</br>Lahko nam pišete iz vaše priljubljene aplikacije za e-pošto na naslov: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si").</br> Vedno smo dosegljivi tudi na telefonsko številko <nobr>[041-962-554](tel:+38641962554 "041-962-554")</nobr>.</br> Vašemu povpraševanju sledi informativni izračun cene in določitev datuma prevzema.
 
-<form name="contact" method="POST" data-netlify="true" class="contact-form" action="/kontakt-success">
+<form name="contact-laserstvomakuc" method="POST" data-netlify="true" class="contact-form" action="/kontakt-success">
     <div class="form-group">
         <label for="name">Ime:</label>
         <input class="form-control" id="name" type="text" name="name" />
