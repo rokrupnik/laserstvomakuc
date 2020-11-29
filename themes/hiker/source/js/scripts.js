@@ -138,8 +138,21 @@
   ///////////////////////////////////////////// CTA BUTTONS on category page ///////////////////////////////////////////
   
   $('#product-list .cta-btn').click(function() {
-    console.log(this.dataset.product);
-  })
+    var productName = this.dataset.product,
+        localStorageNames = localStorage.getItem('products');
+    
+    if (localStorageNames) {
+      
+      localStorage.setItem('products', productName);
+      
+    } else {
+      
+      if (localStorageNames.indexOf(productName) === -1) {
+        localStorage.setItem('products', localStorageNames + ', ' + productName);
+      }
+      
+    }
+  });
   
   
 })(jQuery);
