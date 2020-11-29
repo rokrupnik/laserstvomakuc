@@ -137,7 +137,7 @@
   
   ///////////////////////////////////////////// CTA BUTTONS on category page ///////////////////////////////////////////
   
-  $('#gallery.products .cta-btn').click(function() {
+  $('.cta-btn.contact-btn').click(function() {
     var productName = this.dataset.product,
         localStorageNames = localStorage.getItem('products');
     
