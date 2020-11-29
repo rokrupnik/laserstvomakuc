@@ -20,8 +20,8 @@ Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj g
         <textarea class="form-control" id="products" name="products" rows="3"></textarea>
         <label for="message">Sporočilo:</label>
         <textarea class="form-control" id="message" name="message" rows="5"></textarea>
+        <button type="submit" class="btn btn-primary btn-lg">Pošlji</button>
     </div>
-    <button type="submit" class="btn btn-primary">Pošlji</button>
 </form>
 
 </div>
