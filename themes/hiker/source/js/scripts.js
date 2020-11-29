@@ -160,12 +160,34 @@
   
   var $nameInputField = $('form #name'),
       $emailInputField = $('form #email'),
-      $productsInput = $('form #products');
+      $productsInput = $('form #products'),
+      $messageInput = $('form #message');
+  
+  if ($nameInput) {
+    $nameInput.val(localStorage.getItem('name'));
+    $nameInput.blur(function () {
+      localStorage.setItem('name', $nameInput.val())
+    });
+  }
+  
+  if ($emailInput) {
+    $emailInput.val(localStorage.getItem('email'));
+    $emailInput.blur(function () {
+      localStorage.setItem('email', $emailInput.val())
+    });
+  }
   
   if ($productsInput) {
     $productsInput.val(localStorage.getItem('products'));
     $productsInput.blur(function () {
       localStorage.setItem('products', $productsInput.val())
+    });
+  }
+  
+  if ($messageInput) {
+    $messageInput.val(localStorage.getItem('message'));
+    $messageInput.blur(function () {
+      localStorage.setItem('message', $messageInput.val())
     });
   }
   
