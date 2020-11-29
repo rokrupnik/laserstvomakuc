@@ -141,6 +141,8 @@
     var productName = this.dataset.product,
         localStorageNames = localStorage.getItem('products');
     
+    console.log(productName, localStorageNames);
+    
     if (localStorageNames) {
       
       localStorage.setItem('products', productName);
