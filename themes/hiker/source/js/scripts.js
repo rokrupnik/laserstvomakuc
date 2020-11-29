@@ -152,11 +152,15 @@
       localStorage.setItem('products', productName);
       
     }
+    
+    location.pathname = '/kontakt';
   });
   
   ///////////////////////////////////////////// CONTACT FORM FIELDS persistence in local storage ///////////////////////
   
-  var $productsInput = $('form #products');
+  var $nameInputField = $('form #name'),
+      $emailInputField = $('form #email'),
+      $productsInput = $('form #products');
   
   if ($productsInput) {
     $productsInput.val(localStorage.getItem('products'));
