@@ -137,7 +137,7 @@
   
   ///////////////////////////////////////////// CTA BUTTONS on category page ///////////////////////////////////////////
   
-  $('#product-list .cta-btn').click(function() {
+  $('#gallery.products .cta-btn').click(function() {
     var productName = this.dataset.product,
         localStorageNames = localStorage.getItem('products');
     
@@ -155,6 +155,10 @@
       
     }
   });
+  
+  ///////////////////////////////////////////// CONTACT FORM FIELDS persistence in local storage ///////////////////////
+  
+  
   
   
 })(jQuery);
