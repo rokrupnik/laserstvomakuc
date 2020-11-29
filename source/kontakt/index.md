@@ -13,17 +13,11 @@ Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj g
 <form name="contact" method="POST" data-netlify="true" class="contact-form">
     <div class="form-group">
         <label for="name">Ime:</label>
-        <input id="name" type="text" name="name" />
-    </div>
-    <div class="form-group">
+        <input class="form-control" id="name" type="text" name="name" />
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" />
-    </div>
-    <div class="form-group">
-        <label for="products">Izdelek/ki za katere/ga se zanimate:</label>
+        <input class="form-control" type="email" id="email" name="email" />
+        <label for="products">Izdelki za katere se zanimate:</label>
         <textarea class="form-control" id="products" name="products" rows="3"></textarea>
-    </div>
-    <div class="form-group">
         <label for="message">Sporočilo:</label>
         <textarea class="form-control" id="message" name="message" rows="5"></textarea>
     </div>
