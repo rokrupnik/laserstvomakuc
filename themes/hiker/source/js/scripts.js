@@ -158,8 +158,8 @@
   
   ///////////////////////////////////////////// CONTACT FORM FIELDS persistence in local storage ///////////////////////
   
-  var $nameInputField = $('form #name'),
-      $emailInputField = $('form #email'),
+  var $nameInput = $('form #name'),
+      $emailInput = $('form #email'),
       $productsInput = $('form #products'),
       $messageInput = $('form #message');
   
