@@ -12,7 +12,7 @@
             <%- page.content %>
 
             <% if (page.products) { %>
-            <div id="product-list" class="products">
+            <div id="gallery" class="products">
                 <% for (var i = 0; i < page.products.length; i++) { %>
                 <div class="line-separator clearfix"></div>
                 <div class="product">
@@ -42,7 +42,7 @@
                         </div>
                         <% } %>
 
-                        <a href="javascript:void(0)" class="cta-btn btn btn-primary btn-lg" data-product="<%- page.products[i].name %>">Oddaj povpraševanje</a>
+                        <span class="cta-btn btn btn-primary btn-lg" data-product="<%- page.products[i].name %>">Oddaj povpraševanje</span>
                     </span>
                 </div>
                 <% } %>
