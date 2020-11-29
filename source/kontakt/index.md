@@ -10,12 +10,24 @@ date: 2012-04-18 17:52:33
 
 Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj ga bomo uresničili!</br>Lahko nam pišete iz vaše priljubljene aplikacije za e-pošto na naslov: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si").</br> Vedno smo dosegljivi tudi na telefonsko številko <nobr>[041-962-554](tel:+38641962554 "041-962-554")</nobr>.</br> Vašemu povpraševanju sledi informativni izračun cene in določitev datuma prevzema.
 
-<form name="contact" method="POST" data-netlify="true">
-  <label>Ime:<br><input type="text" name="name" /></label>   
-  <label>Email:<br><input type="email" name="email" /></label>
-  <label>Izdelek/ki za katere/ga se zanimate:<br><textarea name="products"></textarea></label>
-  <label>Sporočilo:<br><textarea name="message"></textarea></label>
-  <button type="submit" class="action primary">Pošlji</button>
+<form name="contact" method="POST" data-netlify="true" class="contact-form">
+    <div class="form-group">
+        <label for="name">Ime:</label>
+        <input id="name" type="text" name="name" />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" />
+    </div>
+    <div class="form-group">
+        <label for="products">Izdelek/ki za katere/ga se zanimate:</label>
+        <textarea class="form-control" id="products" name="products"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="message">Sporočilo:</label>
+        <textarea class="form-control" id="message" name="message"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Pošlji</button>
 </form>
 
 </div>
