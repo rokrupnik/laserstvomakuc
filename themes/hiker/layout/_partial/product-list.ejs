@@ -29,9 +29,11 @@
                         <p><%- page.products[i].desc %></p>
 
                         <% if (page.products[i].price) { %>
-                        <strong class="product__price">
-                            <%- page.products[i].price %>
-                        </strong>
+                        <div>
+                            <strong class="product__price">
+                                <%- page.products[i].price %>
+                            </strong>
+                        </div>
                         <% } %>
 
                         <% if (page.products[i].notice) { %>
