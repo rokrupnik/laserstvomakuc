@@ -158,7 +158,7 @@
   
   ///////////////////////////////////////////// CONTACT FORM FIELDS persistence in local storage ///////////////////////
   
-  
+  $('form #products').val(localStorage.getItem('products'));
   
   
 })(jQuery);
