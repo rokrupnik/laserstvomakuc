@@ -13,7 +13,7 @@ Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj g
 <form name="contact-laserstvomakuc" method="POST" data-netlify="true" class="contact-form" action="/kontakt-success">
     <div class="form-group">
         <label for="name">Ime:</label>
-        <input class="form-control" id="name" type="text" name="name" />
+        <input class="form-control" id="name" type="text" name="name" autofocus />
         <label for="email">Email:</label>
         <input class="form-control" type="email" id="email" name="email" />
         <label for="products">Izdelki za katere se zanimate:</label>
