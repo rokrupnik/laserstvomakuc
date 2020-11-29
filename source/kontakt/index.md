@@ -21,11 +21,11 @@ Zaupajte nam vaš projekt za lasersko graviranje ali laserski razrez in skupaj g
     </div>
     <div class="form-group">
         <label for="products">Izdelek/ki za katere/ga se zanimate:</label>
-        <textarea class="form-control" id="products" name="products"></textarea>
+        <textarea class="form-control" id="products" name="products" rows="3"></textarea>
     </div>
     <div class="form-group">
         <label for="message">Sporočilo:</label>
-        <textarea class="form-control" id="message" name="message"></textarea>
+        <textarea class="form-control" id="message" name="message" rows="5"></textarea>
     </div>
     <button type="submit" class="btn btn-primary">Pošlji</button>
 </form>
