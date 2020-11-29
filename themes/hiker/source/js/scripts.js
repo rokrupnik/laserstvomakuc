@@ -141,24 +141,29 @@
     var productName = this.dataset.product,
         localStorageNames = localStorage.getItem('products');
     
-    console.log(productName, localStorageNames);
-    
     if (localStorageNames) {
-      
-      localStorage.setItem('products', productName);
-      
-    } else {
-      
+  
       if (localStorageNames.indexOf(productName) === -1) {
         localStorage.setItem('products', localStorageNames + ', ' + productName);
       }
+      
+    } else {
+  
+      localStorage.setItem('products', productName);
       
     }
   });
   
   ///////////////////////////////////////////// CONTACT FORM FIELDS persistence in local storage ///////////////////////
   
-  $('form #products').val(localStorage.getItem('products'));
+  var $productsInput = $('form #products');
+  
+  if ($productsInput) {
+    $productsInput.val(localStorage.getItem('products'));
+    $productsInput.blur(function () {
+      localStorage.setItem('products', $productsInput.val())
+    });
+  }
   
   
 })(jQuery);
