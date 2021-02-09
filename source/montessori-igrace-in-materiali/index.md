@@ -17,12 +17,9 @@ products:
   - 
     name: "Pokončne male pisane premične črke"
     desc: "Pokončne lesene premične črke za zapisovanje besed. Komplet lahko vsebuje različno število črk. 
-           Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so zadaj bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji. Okvirne dimenzije črk kot so K, L in J je 12 cm, črke kot so M, N in R pa v velikosti 5 cm.
-           Po dogovoru lahko izdelamo tudi škatlo. Na voljo sta dve različni škatli (Manjša in Večja).
-           Zunanja dimenzija Večje škatle, prikazana na sliki je 76cm x 36,5 cm. 
-           Na voljo je tudi manjša dimenzija škatle, ki ima znotraj peno, je brez površine za odlaganje črk in je na voljo po nižji ceni (cena kompleta za 120e). Več slik imate na voljo spodaj."
-    price: "90 € (150 € skupaj s škatlo)"
-    notice:  "Na voljo sta dve različni škatli."
+           Cena je napisana za 8 kompletov modrih samoglasnikov in 4 komplete rdečih soglasnikov. Črke so zadaj bele, da lahko kontrolirate pravilnost postavljanja. V kompletu so všteti tudi vejice, pike, pomišlaji, klicaji in vprašaji. Okvirne dimenzije črk kot so K, L in J je 12 cm, črke kot so M, N in R pa v velikosti 5 cm."
+    price: "90 €"
+    notice: "brez škatle"
     image: 
       alt: "Pokončne male pisane premične črke"
       id: montessori_crke_1.jpg
@@ -67,35 +64,14 @@ images:
     id: crke_3_vmtp12.jpg
     alt: Pisane Montessori črke
   -
-    id: crke_1_kdscua.jpg
-    alt: Pisane Montessori črke v škatli za pospravljanje
-  -
-    id: crke_skatla_dwawcv.jpg
-    alt: Pisane Montessori črke v škatli za pospravljanje
-  -
     id: montessori_crke_1.jpg
     alt: Montessori črke
-  -
-    id: montessori_crke_2.jpg
-    alt: Montessori črke  
   -
     id: montessori_crke_3.jpg
     alt: Montessori črke
   -
-    id: montessori_crke_4.jpg
-    alt: Montessori črke  
-  -
-    id: montessori_crke_5.jpg
-    alt: Montessori črke
-  -
     id: montessori_crke_v_modro_rdeci_skatli_2.jpg
     alt: Montessori črke  
-  -
-    id: montessori_crke_v_modro_rdeci_skatli_3.jpg
-    alt: Montessori črke  
-  -
-    id: DSC_0044_uinhfu.jpg
-    alt: Montessori črke
   -
     id: Tipne_montessori_crke_2.jpg
     alt: Tipne montessori črke 
