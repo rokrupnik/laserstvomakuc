@@ -4,7 +4,7 @@ date: 2018-05-05 20:35:10
 type: product-list
 main_image: 
   alt: "Montessori abeceda"
-  id: crke_1_kdscua.jpg
+  id: Tipne_montessori_crke_1.jpg
 products:
   - 
     name: "Tipne (peščene) črke"
