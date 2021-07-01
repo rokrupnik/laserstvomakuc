@@ -33,7 +33,7 @@ Laserstvo Makuc
 Naziv: Rok Rupnik s.p.
 Naslov: [Stara Oselica 67, 4225 Sovodenj, Poljanska dolina](https://goo.gl/maps/ssiJV4cd5Lr "Stara Oselica 67, 4225 Sovodenj")
 E-pošta: [info@laserstvomakuc.si](mailto:info@laserstvomakuc.si "info@laserstvomakuc.si")
-Telefon: [041-962-554 (Petra Rupnik)](tel:+38641962554 "041-962-554")
+<!--Telefon: [041-962-554 (Petra Rupnik)](tel:+38641962554 "041-962-554")-->
 
 TRR: SI56 0763 5720 3261 143 (Odprt pri banki Gorenjska banka d.d.)
 ID za DDV: 72823909 (nismo zavezanci za DDV)
